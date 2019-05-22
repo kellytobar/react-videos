@@ -1,0 +1,147 @@
+
+{
+  "categories": [
+    {
+      "id": 1,
+      "description": "Lo mejor de la semana",
+      "title": "Destacados",
+      "playlist": [
+        {
+          "title": "¿Qué es responsive Design?",
+          "author": "Kelly Tobar",
+          "type": "video",
+          "cover": "https://www.elpatiodigital.com/wp-content/uploads/2015/03/que-es-responsive-design.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Cómo optimzar la carga de un website",
+          "author": "Catalina Montoya",
+          "type": "video",
+          "cover": "https://www.elpatiodigital.com/wp-content/uploads/2015/03/que-es-responsive-design.jpg",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
+          "id": 2
+        },
+        {
+          "title": "Qué es Bitcoin",
+          "author": "Yograterol",
+          "type": "video",
+          "cover": "https://www.elpatiodigital.com/wp-content/uploads/2015/03/que-es-responsive-design.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        },
+        {
+          "title": "Que pasó con HTML5",
+          "author": "Freddier",
+          "type": "video",
+          "cover": "https://www.elpatiodigital.com/wp-content/uploads/2015/03/que-es-responsive-design.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "Lo mejor de react native",
+          "author": "Cvander",
+          "type": "video",
+          "cover": "https://www.elpatiodigital.com/wp-content/uploads/2015/03/que-es-responsive-design.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Lo mejor para concentrarte",
+      "title": "Para programar",
+      "playlist": [
+        {
+          "title": "One more time",
+          "author": "Daft Punk",
+          "type": "video",
+          "cover": "https://static.rfstat.com/bloggers_folders/user_2540376/my_media/aab8b888-e24f-43af-83db-cc4cd88de9b3.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Midnight City",
+          "author": "M83",
+          "type": "video",
+          "cover": "https://static.rfstat.com/bloggers_folders/user_2540376/my_media/aab8b888-e24f-43af-83db-cc4cd88de9b3.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        },
+        {
+          "title": "Solar Sailer",
+          "author": "Daft Punk",
+          "type": "video",
+          "cover": "https://static.rfstat.com/bloggers_folders/user_2540376/my_media/aab8b888-e24f-43af-83db-cc4cd88de9b3.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 2
+        },
+        {
+          "title": "The social network",
+          "author": "The social network",
+          "type": "video",
+          "cover": "https://static.rfstat.com/bloggers_folders/user_2540376/my_media/aab8b888-e24f-43af-83db-cc4cd88de9b3.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "No vaya a ser",
+          "author": "Pablo Alboran",
+          "type": "video",
+          "cover": "https://static.rfstat.com/bloggers_folders/user_2540376/my_media/aab8b888-e24f-43af-83db-cc4cd88de9b3.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Si no te queda de otra",
+      "title": "Regueton",
+      "playlist": [
+        {
+          "title": "Despacito",
+          "author": "Luis Fonsi",
+          "type": "video",
+          "cover": "https://static.rfstat.com/bloggers_folders/user_2540376/my_media/aab8b888-e24f-43af-83db-cc4cd88de9b3.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Echame la culpa",
+          "author": "Luis fonsi",
+          "type": "video",
+          "cover": "https://static.rfstat.com/bloggers_folders/user_2540376/my_media/aab8b888-e24f-43af-83db-cc4cd88de9b3.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        },
+        {
+          "title": "Mi Gente",
+          "author": "J Bavil",
+          "type": "video",
+          "cover": "https://static.rfstat.com/bloggers_folders/user_2540376/my_media/aab8b888-e24f-43af-83db-cc4cd88de9b3.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 2
+        },
+        {
+          "title": "Felices los 4",
+          "author": "Maluma",
+          "type": "video",
+          "cover": "https://static.rfstat.com/bloggers_folders/user_2540376/my_media/aab8b888-e24f-43af-83db-cc4cd88de9b3.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "Me Rehúso",
+          "author": "Danny Ocean",
+          "type": "video",
+          "cover": "https://static.rfstat.com/bloggers_folders/user_2540376/my_media/aab8b888-e24f-43af-83db-cc4cd88de9b3.jpeg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        }
+      ]
+    }
+  ]
+}
+
